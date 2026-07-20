@@ -295,8 +295,9 @@ font-size:28px;
 <h2 class="title">Contact Us</h2>
 
 <p style="text-align:center;">
-WhatsApp: +92 XXX XXXXXXX<br><br>
+WhatsApp: +92 03295059262<br><br>
 Instagram: @wearstory.pk<br><br>
+Tiktok : wear.story1
 Facebook: Wear Story
 </p>
 
@@ -312,7 +313,7 @@ Facebook: Wear Story
 
 </footer>
 
-<a class="whatsapp" href="https://wa.me/92XXXXXXXXXX">💬</a>
+<a class="whatsapp" href="https://wa.me/+923295059262">💬</a>
 
 </body>
 </html># wearstory

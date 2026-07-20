@@ -208,36 +208,47 @@ font-size:28px;
 </section>
 
 <section id="products">
-
-<h2 class="title">Featured Dresses</h2>
+  
+<h2 class="title">Shop by Category</h2>
 
 <div class="grid">
 
 <div class="card">
 <img src="https://via.placeholder.com/400x500">
 <div class="card-content">
-<h3>Maria B Luxury Lawn</h3>
-<p class="price">Rs.4,500</p>
-<a href="#" class="buy">Order Now</a>
+<h3>Casual Collection</h3>
+<p class="price">Everyday Wear</p>
+<a href="#" class="buy">View Collection</a>
 </div>
 </div>
 
 <div class="card">
 <img src="https://via.placeholder.com/400x500">
 <div class="card-content">
-<h3>Khaadi Pret</h3>
-<p class="price">Rs.3,200</p>
-<a href="#" class="buy">Order Now</a>
+<h3>Fancy Collection</h3>
+<p class="price">Party & Events</p>
+<a href="#" class="buy">View Collection</a>
 </div>
 </div>
 
 <div class="card">
 <img src="https://via.placeholder.com/400x500">
 <div class="card-content">
-<h3>Sapphire Collection</h3>
-<p class="price">Rs.3,850</p>
-<a href="#" class="buy">Order Now</a>
+<h3>Luxury Collection</h3>
+<p class="price">Premium Brands</p>
+<a href="#" class="buy">View Collection</a>
 </div>
+</div>
+
+<div class="card">
+<img src="https://via.placeholder.com/400x500">
+<div class="card-content">
+<h3>Under Rs. 15,000</h3>
+<p class="price">Best Deals</p>
+<a href="#" class="buy">Shop Now</a>
+</div>
+</div>
+
 </div>
 
 </div>
@@ -249,15 +260,14 @@ font-size:28px;
 <h2 class="title">Categories</h2>
 
 <div class="grid">
+  
+<div class="category">Casual</div>
 
-<div class="category">Luxury Lawn</div>
+<div class="category">Fancy</div>
 
-<div class="category">Casual Wear</div>
+<div class="category">Luxury</div>
 
-<div class="category">Party Wear</div>
-
-<div class="category">Winter Collection</div>
-
+<div class="category">Under Rs. 15,000</div>
 </div>
 
 </section>

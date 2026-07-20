@@ -298,6 +298,7 @@ font-size:28px;
 WhatsApp: +92 03295059262<br><br>
 Instagram: @wearstory.pk<br><br>
 Tiktok : wear.story1
+
 Facebook: Wear Story
 </p>
 
